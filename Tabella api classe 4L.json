@@ -90,7 +90,7 @@
   "link": "https://api.nasa.gov/"
   },
   {
-  "nome": "Mazzone Stefano",
+  "nome": "Mazzone Samuele",
   "api": "Spotify",
   "descrizione": "Ottenere un'analisi audio di una traccia scelta",
   "link": "https://developer.spotify.com/documentation/web-api/reference/get-audio-analysis"
