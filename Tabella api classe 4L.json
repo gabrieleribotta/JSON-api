@@ -56,8 +56,8 @@
   {
   "nome": "Garello Matteo",
   "api": "PokéAPI",
-  "descrizione": "Fornisce informazioni relative a tutti i Pokémon, compresi tipi, mosse e abilità",
-  "link": "https://pokeapi.co/"
+  "descrizione": "Permette la ricerca di un Pokémon tramite nome o numero e la sua visualizzazione dettagliata. Sono presenti anche liste con tutte le abilità, le mosse, gli strumenti, le bacche e i Pokémon",
+  "link": "https://pokeapi.co/docs/v2"
   },
   {
   "nome": "Garnero Luca",
