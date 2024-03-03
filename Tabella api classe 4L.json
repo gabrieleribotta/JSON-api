@@ -19,9 +19,9 @@
   },
   {
   "nome": "Bianco Andrea",
-  "api": "Epic Games",
-  "descrizione": "Servizio per gestire le amicizie, accettazione e rifiuto",
-  "link": "https://dev.epicgames.com/docs/api-ref/interfaces#friends-interface"
+  "api": "Esri Leaflet",
+  "descrizione": "Servizio che mostra una mappa ed è possibile cercare il nome di una città e una destinazione",
+  "link": "https://developers.arcgis.com/documentation/"
   },
   {
   "nome": "Bondar Oleksandr",
@@ -39,7 +39,7 @@
   "nome": "Castellano Gabriele",
   "api": "Rest Countries",
   "descrizione": "API per un sito che mostra informazioni su vari paesi, come la popolazione, l'area, le lingue parlate, informazioni sulla valutazione, religioni ",
-  "link": "https://restcountries.eu"
+  "link": "https://restcountries.com/v3.1/all?lang=it"
   },
   {
   "nome": "Chen Lihua",
@@ -48,10 +48,10 @@
   "link": "https://developers.google.com/books?hl=it"
   },
   {
-  "nome": "El Akhdar Ayoub",
-  "api": "Instagram",
-  "descrizione": "",
-  "link": ""
+    "nome": "El Akhdar Ayoub",
+    "api": "Youtube",
+    "descrizione": "Poter cercare e vedere un video su youtube",
+    "link": "https://developers.google.com/youtube/v3/docs?hl=it"
   },
   {
   "nome": "Garello Matteo",
@@ -73,9 +73,9 @@
   },
   {
   "nome": "Kadiasi Daniele",
-  "api": "YouTube",
-  "descrizione": "Api che permette di gestire le iscrizioni",
-  "link": "https://developers.google.com/youtube/v3?hl=it"
+  "api": "EnkaAPI",
+  "descrizione": "Api che permette di mostrare informazioni sul giocatore in base all'id messo",
+  "link": "https://api.enka.network/#/api"
   },
   {
   "nome": "Lepori Gabriele",
@@ -109,9 +109,9 @@
   },
   {
   "nome": "Pal Bhushan",
-  "api": "Clash of Clans",
-  "descrizione": "Visualizzare dati villaggi attraverso l'inserimento del nome utente/id",
-  "link": "https://developer.clashofclans.com/#/getting-started"
+  "api": "YouTube ",
+  "descrizione": "Ricerca di video/ canali YouTube ",
+  "link": "https://console.cloud.google.com/cloud-resource-manager"
   },
   {
   "nome": "Pellitta Francesco",
@@ -128,7 +128,7 @@
   {
   "nome": "Ribotta Gabriele",
   "api": "Riot Games",
-  "descrizione": "Inserire user o campione/personaggio e ritornare vari parametri (eg. nome, rateo di vittore)",
+  "descrizione": "Inserire user e ritornare vari parametri (eg. nome, rateo di vittore)",
   "link": "https://developer.riotgames.com/docs/portal"
   },
   {
@@ -142,5 +142,11 @@
   "api": "Sofascore",
   "descrizione": "statistiche sul mondo del calcio come squadre/calciatori",
   "link": "https://rapidapi.com/apidojo/api/sofascore"
+  },
+  {
+  "nome": "Volpe Giovanni",
+  "api": "Bored API/YouTube search",
+  "descrizione": "ritorna consigli su attività da svolgere quando si è annoiati e sfrutta la ricerca di YouTube per cercare video sulle attività proposte ",
+  "link": "https://www.boredapi.com/"
   }
   ]
