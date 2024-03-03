@@ -128,7 +128,7 @@
   {
   "nome": "Ribotta Gabriele",
   "api": "Riot Games",
-  "descrizione": "Inserire user e ritornare vari parametri (eg. nome, rateo di vittore)",
+  "descrizione": "Inserire user e ritornare vari parametri (eg. nome, ultime partite)",
   "link": "https://developer.riotgames.com/docs/portal"
   },
   {
